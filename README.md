@@ -61,7 +61,9 @@ The notebook where the models are tested is: Albert_Fernandez_Project_IV_Deep_Le
 
 ## 🚀 How to Run
 
-1. Install required dependencies:
+1. Install required dependencies using `pip install pandas numpy matplotlib seaborn plotly`
+2. Launch the notebook by running `Albert_Fernandez_Project_IV_Deep_Learning.ipynb"`
 
-```bash
-pip install tensorflow keras matplotlib numpy
+---
+
+This project is part of a portfolio showcasing data science work completed during the Master’s program at Nuclio Digital School.
