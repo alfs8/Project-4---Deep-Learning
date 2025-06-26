@@ -39,7 +39,7 @@ Each experiment includes:
 - A clear analysis of the outcome (better or worse)
 - Justification of decisions
 - A **final summary comparison** across all 10 models
-- At least one model above 80& accuracy
+- At least one model above 80% accuracy
 
 ## 📊 Results Summary
 
