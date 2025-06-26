@@ -55,7 +55,9 @@ The project demonstrates a clear **evolution in model performance** across 10 ex
 
 The final configuration successfully balances model complexity, training stability, and test accuracy.
 
-These results can be analized in the document: Albert_Fernandez_ProyectoIV_Deep_Learning.pdf
+These results can be analized in the document: Albert_Fernandez_Project_IV_Deep_Learning.pdf
+
+The notebook where the models are tested is: Albert_Fernandez_Project_IV_Deep_Learning.ipynb
 
 ## 🚀 How to Run
 
